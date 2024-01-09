@@ -5,6 +5,5 @@ def add(a, b):
 def subtract(a, b):
   return a-b
 
-def say_hello();
-  print("Hello")
-  
+def multiply(a, b):
+  return a*b
